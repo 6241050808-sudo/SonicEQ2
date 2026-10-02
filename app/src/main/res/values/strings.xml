@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SonicEQ</string>
+    <string name="eq_title">SonicEQ - Stream &amp; Bluetooth</string>
+    <string name="service_running_desc">Audio Equalizer &amp; Effects are active</string>
+</resources>
